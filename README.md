@@ -1,4 +1,5 @@
 # Kotlin-Scala Interop Issue
+This is just a tiny replication package for this bug: https://youtrack.jetbrains.com/issue/KT-38325
 
 Executing `./gradlew build` results in the following exception:
 
